@@ -1,3 +1,28 @@
-/*
-  CSS File
-*/
+h1 {
+  padding: 10px;
+  margin-bottom: 0px;
+  background-color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 50px;
+  color: #D2CCB4;
+  text-shadow: 2px 2px 0px #564E1C;
+  text-align: center;
+
+  background-color: #a52a2a;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #6E3F45;
+}
+
+ul {
+  list-style-type: none;
+  padding: 35px;
+  margin: 50px 250px;
+  background-color: black;
+  color: #D2CCB4;
+  text-align: left;
+
+  background-color: #a52a2a;
+}
