@@ -1,3 +1,48 @@
-/*
-  CSS File
-*/
+
+ul.header {
+  margin-bottom: 0px;
+  background-color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 1.6vw;
+  color: #D2CCB4;
+  text-shadow: 2px 2px 0px #564E1C;
+  text-align: center;
+
+  background-color: #a52a2a;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+
+img.logo {
+  width: auto;
+  height: auto;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url(https://raw.githubusercontent.com/imd1005-web-development-winter-2023/assignment-02-NurpoHB/main/.images/background.png);
+  background-size:
+}
+
+ul.body {
+  list-style-type: none;
+  padding: 35px;
+  margin: 4% 13%;
+  background-color: black;
+  color: #D2CCB4;
+  text-align: left;
+
+  background-color: #a52a2a;
+}
+
+h3 {
+  text-align: center;
+}
+
+li{
+  margin: 2% 5%;
+}
